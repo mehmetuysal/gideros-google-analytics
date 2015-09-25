@@ -5,7 +5,7 @@ Gideros google analytics ios plugin.
 - Follow the instruction https://developers.google.com/analytics/devguides/collection/ios/v3/?hl=en
 - Copy plugin files to xcode plugin directory
 - That's it!
--
+
  You need to use GoogleServer-info.plist instead of "startAnalytics" first parameter APP_ID_FROM_CONFIG. This parameter will be impletemented soon.
 
         require "analytics"
